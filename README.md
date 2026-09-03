@@ -10,9 +10,6 @@ Webフロントエンドを中心に学習・開発らしいことをしてい�
 ### 📚 Currently Learning
 ![Learning](https://skillicons.dev/icons?i=react,nextjs)
 
-### 🔧 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,zed)
-
 ---
 
 ### 🔭 What I'm Doing
