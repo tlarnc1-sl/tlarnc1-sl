@@ -1,3 +1,20 @@
-こんにちは
+# Hi there 👋, I'm [たらぽん]
 
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs)
+Webフロントエンドを中心に学習・開発らしいことをしています。
+
+---
+
+### 🛠 Skills
+![Tech Skills](https://skillicons.dev/icons?i=html,css,js,ts)
+
+### 📚 Currently Learning
+![Learning](https://skillicons.dev/icons?i=react,nextjs)
+
+### 🔧 Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+---
+
+### 🔭 What I'm Doing
+- HTML / CSS / JavaScript / TypeScript を用いたWebサイト・アプリ制作
+- React / Next.js を学ぶ
