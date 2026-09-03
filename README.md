@@ -11,7 +11,7 @@ Webフロントエンドを中心に学習・開発らしいことをしてい�
 ![Learning](https://skillicons.dev/icons?i=react,nextjs)
 
 ### 🔧 Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,zed)
 
 ---
 
